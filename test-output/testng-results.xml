@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15990" started-at="2019-05-25T20:43:21Z" finished-at="2019-05-25T20:43:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15990" started-at="2019-05-25T20:43:21Z" finished-at="2019-05-25T20:43:37Z">
+      <class name="org.sample.cts.in.SampleBase">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.sample.cts.in.SampleBase@39f31e]" name="beforeclass" is-config="true" duration-ms="10030" started-at="2019-05-25T20:43:21Z" finished-at="2019-05-25T20:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.sample.cts.in.SampleBase@39f31e]" name="beforemethod" is-config="true" duration-ms="4" started-at="2019-05-25T20:43:31Z" finished-at="2019-05-25T20:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.sample.cts.in.SampleBase@39f31e]" name="test" duration-ms="4837" started-at="2019-05-25T20:43:31Z" finished-at="2019-05-25T20:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.sample.cts.in.SampleBase@39f31e]" name="aftermethod" is-config="true" duration-ms="0" started-at="2019-05-25T20:43:36Z" finished-at="2019-05-25T20:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:org.sample.cts.in.SampleBase@39f31e]" name="afterclass" is-config="true" duration-ms="1077" started-at="2019-05-25T20:43:36Z" finished-at="2019-05-25T20:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- org.sample.cts.in.SampleBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
